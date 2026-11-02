@@ -4,6 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="description"
+        content="Contact Cape Community Haven in Cape Town for enquiries, support, or facility information.">
+    <meta name="keywords" content="contact, Cape Town non-profit, address, phone number, email support">
+    <meta name="author" content="Cape Community Haven">
+
     <title>Cape Community Haven - Contact Us</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
@@ -42,7 +48,8 @@
 
         <section>
             <h2>Send Us a Message</h2>
-            <form action="#" method="post">
+
+            <form id="contact-form" action="#" method="post">
                 <p>
                     <label for="contact-name">Your Name:</label><br>
                     <input type="text" id="contact-name" name="contact_name" required>
@@ -59,12 +66,16 @@
                     <button type="submit">Send Message</button>
                 </p>
             </form>
+
+            <div id="contact-response" style="display: none;"></div>
         </section>
     </main>
 
     <footer>
         <p>&copy; 2026 Cape Community Haven. All Rights Reserved.</p>
     </footer>
+
+    <script src="js/main.js"></script>
 
 </body>
 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://manace6.github.io/cape-community-haven/index.html</loc>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://manace6.github.io/cape-community-haven/about.html</loc>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://manace6.github.io/cape-community-haven/services.html</loc>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://manace6.github.io/cape-community-haven/enquiry.html</loc>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://manace6.github.io/cape-community-haven/contact.html</loc>
+        <priority>0.8</priority>
+    </url>
+</urlset>
